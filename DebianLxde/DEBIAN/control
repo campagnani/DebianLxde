@@ -1,0 +1,7 @@
+Package: debianlxde
+Version: 0
+Depends: lxde, xfce4-power-manager, network-manager-gnome, deepin-icon-theme, gedit
+Recommends: grub-customizer, gparted, gimp, inkscape, qbittorrent, obs-studio, tor-browser, vlc, unrar
+Maintainer: Thalles Campagnani <thallescampagnani@gmail.com>
+Architecture: all
+Description: Metapackages: Interface gráfica LXDE + software extras.
