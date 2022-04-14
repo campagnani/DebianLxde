@@ -82,3 +82,9 @@ OBS: Muito provavelmente você estará utilizando um sistema operacional amd64.
 Intalar com o comando:
 
     sudo apt install ./lxinput_* ./lxinput-dbg_*
+
+## Resultado
+
+Depois dos pacotes instalados, o sistema pode ser personalizado ao seu gosto. Eu gosto dele assim:
+
+![Resultado LXDE](https://raw.githubusercontent.com/campagnani/DebianLxde/main/debian1.png)
